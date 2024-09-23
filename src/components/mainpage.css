@@ -161,16 +161,16 @@ span.toggle-for-temp {
     transform: translateX(0px);
 }
 .weather-blk.sunny .temp-blk-div:after , .weather-blk.sunny{
-    background-image: url(src/assets/sunny_final.jpg);
+    background-image: url(../assets/sunny_final.jpg);
 }
 .weather-blk.clouds .temp-blk-div:after , .weather-blk.clouds , .weather-blk.haze .temp-blk-div:after , .weather-blk.haze, .weather-blk.mist .temp-blk-div:after , .weather-blk.mist, .weather-blk.drizzle , .weather-blk.drizzle .temp-blk-div:after{
     background-image: url(../assets/cloudy_final.jpg);
 }
 .weather-blk.rain .temp-blk-div:after , .weather-blk.rain{
-    background-image: url(src/assets/rain_final.jpg);
+    background-image: url(../assets/rain_final.jpg);
 }
 .weather-blk.snow .temp-blk-div:after , .weather-blk.snow{
-    background-image: url(src/assets/snow_final.jpg);
+    background-image: url(../assets/snow_final.jpg);
 }
 .wind, .humidity , .future-forecasts {
     padding: 20px 20px 25px;
