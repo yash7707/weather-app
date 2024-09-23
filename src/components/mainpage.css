@@ -160,7 +160,7 @@ span.toggle-for-temp {
 .temp-blk-div:hover span.toggle-for-temp {
     transform: translateX(0px);
 }
-.weather-blk.sunny .temp-blk-div:after , .weather-blk.sunny{
+.weather-blk.clear .temp-blk-div:after , .weather-blk.clear{
     background-image: url(../assets/sunny_final.jpg);
 }
 .weather-blk.clouds .temp-blk-div:after , .weather-blk.clouds , .weather-blk.haze .temp-blk-div:after , .weather-blk.haze, .weather-blk.mist .temp-blk-div:after , .weather-blk.mist, .weather-blk.drizzle , .weather-blk.drizzle .temp-blk-div:after{
