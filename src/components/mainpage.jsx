@@ -1,5 +1,5 @@
 import "./mainpage.css";
-import { useState, useEffect } from "react";
+import react, { useState, useEffect } from "react";
 import { fetchWeatherData, fetchForecastData } from "./FunctionToFetchData";
 import ErrorBox from "./ErrorBox";
 import Search from "./Search";
