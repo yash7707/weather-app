@@ -45,24 +45,6 @@ npm run dev
 
 This will start the Vite development server. The app will be available at [http://localhost:3000](http://localhost:3000).
 
-### Building for Production
-
-To create a production-ready build of the app, run the following command:
-
-```bash
-npm run build
-```
-
-The built files will be output to the `dist` directory.
-
-### Linting
-
-To run the linter, use the following command:
-
-```bash
-npm run lint
-```
-
 ## Folder Structure
 
 - **src/**: Contains the React components and app logic.
